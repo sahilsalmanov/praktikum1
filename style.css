@@ -115,5 +115,8 @@ h1 {
 .bottom-p h3 {
     font-size: 12px;
 }
+.bottom-p p {
+    font-size: 10px;
+}
 
 }
