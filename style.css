@@ -28,6 +28,9 @@ h1 {
     position: relative;
     height: 350px;
 }
+.image1 {
+    width: 100%;
+}
 .image2 {
     width: 100%;     
     position: absolute;
@@ -89,18 +92,17 @@ h1 {
     width: 100%;
 }
 .ellipse {
-    width: 35%;
+    width:30%;
     margin: auto;
-    height: 172px;
+    height: 176px;
 
 }
 .image1 {
-    height: 146px;
+    height: 150px;
     display: flex;
     justify-content: center;
     margin: auto;
 }
-
 .end-part {
     flex-wrap: wrap;
     justify-content: flex-start;
